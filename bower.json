@@ -1,0 +1,32 @@
+
+{
+  "name": "Battlefield",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kinncj/Battlefield",
+  "authors": [
+    "KinnCJ <kinncj@gmail.com> (http://about.me/kinncj)"
+  ],
+  "description": "Just a simple dispatching system",
+  "main": "dist/Battlefield.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "react-tabs",
+    "tabs",
+    "tab"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "example",
+    "utils",
+    "lib"
+  ]
+}
